@@ -34,7 +34,8 @@ EX.l
 int yywrap() { return 1;
 }
 
-
+```
+```
 EX.y
  %{
 #include <stdio.h>
